@@ -42,7 +42,7 @@
 
 ## 📫 Como Entrar em Contato
 
-✉️ **E-mail:** [pedro123jose321@example.com](mailto:pedro123jose321@gmail.com)
+✉️ **E-mail:** [pedro123jose321@gmail.com](mailto:pedro123jose321@gmail.com)
 🔗 **LinkedIn:** [linkedin.com/in/pedrojose](https://linkedin.com/in/pedro1jose)
 
 ---
