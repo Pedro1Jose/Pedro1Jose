@@ -30,7 +30,7 @@ Membro da **CodexJr** (empresa júnior de computação) e do grupo **Guardians U
 
 ## Projetos em destaque
 
-**[Lab1_Redes](https://github.com/Pedro1Jose/redes_lab1)** — Implementação do algoritmo de roteamento Split Horizon em Python, simulando uma topologia de rede com múltiplas tabelas de roteamento e convergência.
+**[redes_lab1](https://github.com/Pedro1Jose/redes_lab1)** — Implementação do algoritmo de roteamento Split Horizon em Python, simulando uma topologia de rede com múltiplas tabelas de roteamento e convergência.
 
 **[Projeto_Estatistica](https://github.com/Pedro1Jose/Projeto_Estatistica)** — Análise de dados computacionais com Python (pandas, matplotlib), aplicando conceitos estatísticos em notebooks Jupyter.
 
